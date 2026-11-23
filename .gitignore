@@ -1,0 +1,14 @@
+# Runtime & caches
+.webview_cache/
+__pycache__/
+*.py[cod]
+launcher.log
+
+# Local backup shortcuts
+*_backup.lnk
+*.lnk
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/

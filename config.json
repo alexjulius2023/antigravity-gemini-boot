@@ -1,0 +1,15 @@
+{
+  "antigravity_exe": "",
+  "fullscreen": true,
+  "windowed_width": 1280,
+  "windowed_height": 720,
+  "sound_enabled": true,
+  "sound_volume": 0.30,
+  "min_duration_ms": 10200,
+  "max_wait_ms": 20000,
+  "paint_settle_ms": 750,
+  "fade_in_ms": 260,
+  "fade_out_ms": 680,
+  "subtitle": "GEMINI NEKO PROTOCOL · ZERO-G WORKSPACE",
+  "greeting": "星轨共鸣完成，欢迎回到反重力空间"
+}
